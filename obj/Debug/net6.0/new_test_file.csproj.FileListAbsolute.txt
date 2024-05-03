@@ -17,3 +17,4 @@ C:\Testing\Template_Creation\new_test_file\obj\Debug\net6.0\refint\new_test_file
 C:\Testing\Template_Creation\new_test_file\obj\Debug\net6.0\new_test_file.pdb
 C:\Testing\Template_Creation\new_test_file\obj\Debug\net6.0\new_test_file.genruntimeconfig.cache
 C:\Testing\Template_Creation\new_test_file\obj\Debug\net6.0\ref\new_test_file.dll
+C:\Testing\Template_Creation\new_test_file\obj\Debug\net6.0\new_test_file.sourcelink.json
