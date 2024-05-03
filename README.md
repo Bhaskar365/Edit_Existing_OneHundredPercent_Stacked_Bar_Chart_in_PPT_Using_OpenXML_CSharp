@@ -1,0 +1,1 @@
+Code to remove bar graph content from chart using OpenXml and C# is not properly done yet. Using XML code markup to fetch data from the barGraph after reading from PPT. PPT is inside the NewFolder named folder. Testing till successful.
