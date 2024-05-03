@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ucX0MfAT3U8DQ/Zrrnj/S6lKQtxgR6iM8t2AGW+uNKlqIzVer0AX0xC/NRFaAEP2jMumXFGJjxDZ6TidFBCjg==",
+  "success": true,
+  "projectFilePath": "C:\\Testing\\Template_Creation\\new_test_file\\new_test_file.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bdas\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\bdas\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\bdas\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
